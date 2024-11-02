@@ -44,3 +44,92 @@ import math as m
 # else :
 #     print(f"your year {year} is  not nakiani")
 
+
+
+
+# my_list = [1, 2, 3, 4, 5]
+# for i in range(len(my_list) -1,-1,-1 ) :
+    # i += 1
+    
+    # print(i)
+
+
+# numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]  
+# sum_even = 0
+# for i in numbers:
+#     if i%2==0:
+#         sum_even += i
+        # print(i)
+# print("Sum of even numbers:", sum_even)
+
+# correct_password = "mypassword"  
+# user_input = ""
+# while user_input != correct_password:
+#       user_input = input("Enter correct password: ")
+      
+# else:
+#     print("Welcome to the system!")
+    
+
+# count = 0
+# while count <100:
+#     count += 1
+#     print(count)
+
+
+
+# numbers = [10, 20, 30, 40, 50]  
+# total = 0
+# for i in numbers:
+#     total += i
+
+# average = total / len(numbers)
+
+# print(average)
+
+
+# for num in range( len(numbers) ):
+#     total += num
+#     print(total / len(numbers))
+
+# N = int(input("Enter a number: "))
+# total = 0
+# for i in range(N):
+#     i +=1
+#     total +=i
+    
+
+# print(total)
+    
+# N = 50
+# for i in range(1 , N):
+#     if i%2 != 0:
+#         print(i)
+
+# numbers = [10, 25, 3, 8, 19] 
+# max_number = max(numbers)
+# print(max_number)
+#
+
+
+# for i in :
+#     if randomNumber <100:
+#         print(randomNumber)
+    
+    # if num + randomNumber < 100:
+    #     print(randomNumber)
+    # else:
+    #     print("Number is greater than or equal to 100")
+    #     break
+        
+
+# num = 0
+
+# while num  < 100:
+#     randomNumber=int(input("Enter a random number: "))
+#     num += randomNumber
+#     if num >=100:
+#         print("Number is greater than or equal to 100")
+#         break
+        
+    
